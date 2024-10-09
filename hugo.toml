@@ -104,7 +104,7 @@ paginate = 6
   name = "{Joko|Toni|Bayu|Gilang|Bambang|Faisal|Rizal|Ali|Ahmad|Rudi}"
   message = "{Produk pipa PVC dari pipa-pvc.bangunan.co {sangat berkualitas|berkualitas tinggi|premium} dan cocok untuk proyek {perumahan|konstruksi|pembangunan} saya. Proses pembelian dan pengirimannya juga {cepat|efisien|terorganisir}.|Pipa PVC dari pipa-pvc.bangunan.co {berkualitas|kokoh|premium} dan pengirimannya {cepat|efisien|terjamin} sesuai harapan.}"
   response = "{Terima kasih! Kami {berkomitmen|berdedikasi|fokus} untuk menyediakan pipa PVC berkualitas dengan {layanan terbaik|pelayanan prima}.|Kami {berterima kasih|senang} atas kepercayaan Anda dan terus berkomitmen memberikan yang terbaik.}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
