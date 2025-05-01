@@ -1,9 +1,12 @@
 ---
-title: "Jual Pipa PVC di Karawang [Terdekat]"
-date: "2024-05-19"
-categories: 
-  - "distributor"
-description: "Jual Pipa PVC di Karawang [Terdekat]. Bagi anda yang tengah order pipa pvc tidak perlu bimbang, disini anda bakal memperoleh yang cocok dengan yg diharapkan...."
+title: 'Jual Pipa PVC di Karawang [Terdekat]'
+date: '2025-05-01'
+categories:
+  - distributor
+description: >-
+  Jual Pipa PVC di Karawang [Terdekat]. Bagi anda yang tengah order pipa pvc
+  tidak perlu bimbang, disini anda bakal memperoleh yang cocok dengan yg
+  diharapkan....
 ---
 
 **Jual Pipa PVC di Karawang \[Terdekat\]** – Pipa pvc yakni satu-satunya jenis pipa yang lumayan terkenal diaplikasikan oleh masyarakat sekarang ini. Melihat pipa type ini yakni salah satu product pengembangan perpipaan dari material thermoplastic. buatan yang satu ini dikenal sbg beberapa product dengan harga murah dan budget Pemasangan pemakaian yg mudah.
