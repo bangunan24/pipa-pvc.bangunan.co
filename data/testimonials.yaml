@@ -1,23 +1,25 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Yudi
+    name: Fajar
     message: >-
-      Saya membeli pipa PVC dari pipa-pvc.bangunan.co untuk proyek instalasi air
-      di rumah saya, dan hasilnya luar biasa. Kualitas produk sangat baik dan
-      kokoh.
+      Saya membeli pipa PVC dari pipa-pvc.bangunan.co untuk proyek perpipaan di
+      rumah saya, dan hasilnya menakjubkan. Kualitas produk sangat baik dan
+      awet.
     response: >-
-      Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan pipa PVC
-      berkualitas untuk proyek Anda.
+      Kami berterima kasih atas kepercayaan Anda dan senang bisa membantu proyek
+      Anda.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Sari
+    name: Lina
     message: >-
-      pipa-pvc.bangunan.co sangat membantu dalam memilih pipa PVC untuk rumah
-      saya. Produk yang saya beli premium dan sesuai dengan keperluan saya.
-    response: Kami sangat menghargai ulasan Anda. Terima kasih atas kepercayaannya.
+      Saya sangat terbantu dengan pilihan pipa PVC dari pipa-pvc.bangunan.co.
+      Kualitasnya tinggi dan tepat untuk kebutuhan saya.
+    response: >-
+      Kami sangat berterima kasih atas ulasan Anda. Bahagia mengetahui bahwa
+      Anda puas dengan pipa PVC dari kami.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Toni
+    name: Bambang
     message: >-
       Pipa PVC dari pipa-pvc.bangunan.co premium dan pengirimannya efisien
       sesuai harapan.
@@ -26,29 +28,29 @@ testimonials:
       memberikan yang terbaik.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Gani
+    name: Yanto
     message: >-
-      Saya senang dengan pipa PVC dari pipa-pvc.bangunan.co. Kualitasnya tahan
-      lama dan kuat untuk proyek saya.
+      Saya sangat puas dengan pipa PVC dari pipa-pvc.bangunan.co. Kualitasnya
+      terbaik dan awet untuk proyek saya.
     response: >-
-      Senang mendengar Anda puas dengan pipa PVC kami. Terima kasih atas pilihan
-      Anda!
+      Senang mendengar Anda puas dengan pipa PVC kami. Terima kasih atas
+      kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Nur
+    name: Dewi
     message: >-
-      Saya terkesan dengan pelayanan dari pipa-pvc.bangunan.co. Pipa PVC yang
-      saya beli bermutu tinggi dan ideal dengan harapan saya.
+      Pelayanan pipa-pvc.bangunan.co sangat memuaskan. Produk pipa PVC yang saya
+      beli sangat berkualitas dan sesuai dengan standar yang saya butuhkan.
     response: >-
-      Terima kasih! Kami senang dapat memenuhi kebutuhan proyek Anda dengan pipa
-      PVC terbaik.
+      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih produk
+      kami!
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Galih
+    name: Yudi
     message: >-
-      Saya puas dengan pipa PVC dari pipa-pvc.bangunan.co. Produk ini ideal dan
-      pengirimannya aman.
+      Saya senang dengan pipa PVC dari pipa-pvc.bangunan.co. Produk ini sesuai
+      dan pengirimannya cepat.
     response: >-
-      Kami gembira mendengar bahwa Anda puas dengan produk kami. Terima kasih
+      Kami bahagia mendengar bahwa Anda puas dengan produk kami. Terima kasih
       atas ulasannya!
     rating: 5
