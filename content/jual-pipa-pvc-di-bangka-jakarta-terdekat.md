@@ -1,6 +1,6 @@
 ---
 title: 'Jual Pipa PVC di Bangka Jakarta [Terdekat]'
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - distributor
 description: >-
