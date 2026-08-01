@@ -1,6 +1,6 @@
 ---
 title: 'Jual Pipa PVC di Bondongan Bogor [Terdekat]'
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - distributor
 description: >-
