@@ -1,6 +1,6 @@
 ---
 title: 'Jual Pipa PVC di Sindang Barang Bogor [Terdekat]'
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - distributor
 description: >-
